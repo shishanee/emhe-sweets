@@ -1,0 +1,19 @@
+# Local dependencies and editor files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment and hosting identity
+.env
+.env.*
+!.env.example
+.openai/
+.netlify/
+.vercel/
+
+# Original photo inputs and local image-processing reports
+photo-sources/
+catalog-assets-plan.json
+catalog-photo-edits.json
+catalog-revisions-v2.json

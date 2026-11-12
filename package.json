@@ -1,0 +1,9 @@
+{
+  "name": "emhe-sweets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Меню EmHe.Sweets",
+  "scripts": {
+    "start": "node preview-server.cjs"
+  }
+}
